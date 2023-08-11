@@ -1,0 +1,2 @@
+Prefix plugins/VClust/example/
+Plugin VClust inputfile /biorg/data/DB/MEGARES/megares-refs.fna outputfile .
